@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">olá👋! meu nome é Cauê Oliveira, e estou começando minha jornada no mundo da programa, me acompanhe!! 😎</h2>
+<h2 align="left">olá👋! meu nome é Cauê Oliveira Ozorio, tenho 17 anos e estou começando minha jornada no mundo da programação, me acompanhe!! 😎</h2>
 
 ###
 
