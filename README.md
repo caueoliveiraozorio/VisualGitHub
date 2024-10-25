@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/caueoliveiraozorio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/cauê-oliveira-ozório" target="_blank">
+  <a href="[www.linkedin.com/in/cauê-oliveira-ozório](www.linkedin.com/in/cauê-oliveira-ozório)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DXDwSWwvvdrBHVpZpCwNrCvgVRHBBcVjVPGtTQsQllhvMcKXxsbNmDmwnZdhfgLJQXWmwdGxQfJJVnfRxJcqwHdbHCMZrnBFWBqfgtDqXTtnGmBkWJsBdptL" target="_blank">
